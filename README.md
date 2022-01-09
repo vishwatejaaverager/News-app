@@ -1,5 +1,4 @@
-# flutter_application_3
-
+# News app
 A new Flutter project.
 
 ## Getting Started
